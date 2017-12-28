@@ -15,7 +15,7 @@ The manuscript contains the following characters:
 | waw    |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/waw_small.png)  | 10845 |
 | zayin  |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/zayin_small.png)  | 10846 |
 | heth   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/heth_small.png)  | 10847 |
-| tet    |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/tet_small.png)  | 10848 |
+| tety   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/teth_small.png)  | 10848 |
 | yodh   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/yodh_small.png)  | 10849 |
 | kaph   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/kaph_small.png)  | 1084A |
 | lamedh |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/lamedh_small.png)  | 1084B |
@@ -24,7 +24,7 @@ The manuscript contains the following characters:
 | samekh |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/samekh_small.png)  | 1084E |
 | ayin   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/ayin_small.png)  | 1084F |
 | pe     |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/pe_small.png)  | 10850 |
-| sade   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/sade_small.png)  | 10851 |
+| sadhe   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/sadhe_small.png)  | 10851 |
 | qoph   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/qoph_small.png)  | 10852 |
 | resh   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/resh_small.png)  | 10853 |
 | shin   |  |  | ![FIX](https://github.com/ICEDPaleography/font-khalili/raw/master/dev/svg/shin_small.png)  | 10854 |
