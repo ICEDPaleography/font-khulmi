@@ -1,8 +1,12 @@
 #  About 
 
-This directory contains traces of letter forms from the Khalili manuscript, a Central Asian manuscript in Imperial Aramaic. 
+This directory contains a font based on the Khalili manuscript, a Central Asian manuscript in Imperial Aramaic.  As part of development, traces of letter forms from the manuscript are also included.
 
-# Characters and Progress 
+# Use
+
+You can download the [Khalili.otf](https://github.com/ICEDPaleography/font-khalili/raw/master/Khulmi.otf) font and install it the normal way you install fonts on your operating system.
+
+# Characters and Progress (now complete)
 The manuscript contains the following characters:
 
 | letter        | grapheme      | image  | traced | unicode |
