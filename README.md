@@ -4,7 +4,7 @@ This directory contains a font based on the Khalili manuscript, a Central Asian 
 
 # Use
 
-You can download the [Khalili.otf](https://github.com/ICEDPaleography/font-khalili/raw/master/Khulmi.otf) font and install it the normal way you install fonts on your operating system.
+You can download the [Khulmi.otf](https://github.com/ICEDPaleography/font-khalili/raw/master/Khulmi.otf) font and install it the normal way you install fonts on your operating system.
 
 # Characters and Progress (now complete)
 The manuscript contains the following characters:
