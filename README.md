@@ -1,6 +1,6 @@
 #  About 
 
-This directory contains a font based on a Central Asian manuscript in Imperial Aramaic which references the city of Khulmi (modern [Kholm](https://en.wikipedia.org/wiki/Kholm,_Afghanistan).  As part of development, traces of letter forms from the manuscript are also included.
+This directory contains a font based on a Central Asian manuscript in Imperial Aramaic which references the city of Khulmi (modern [Kholm](https://en.wikipedia.org/wiki/Kholm,_Afghanistan)).  As part of development, traces of letter forms from the manuscript are also included.
 
 # Use
 
